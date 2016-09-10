@@ -4,12 +4,12 @@
 /* Change this value to your color to change color scheme of theme */
 
   :root {
-    --main-color:#F97826;
+    --main-color:#89D9F2;
   }
 
   /* Change this link with your image link (must be https!) to change the background */
   .app {
-        background-image:url("https://i.imgur.com/BazZJfn.jpg") !important;
+        background-image:url("https://cdn.discordapp.com/attachments/222854218250190850/223985948143124480/Konachan.png") !important;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
