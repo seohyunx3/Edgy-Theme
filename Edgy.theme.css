@@ -4,12 +4,12 @@
 /* Change this value to your color to change color scheme of theme */
 
   :root {
-    --main-color:#D16D58;
+    --main-color:#DC6CC2;
   }
 
   /* Change this link with your image link (must be https!) to change the background */
   .app {
-        background-image:url("https://cdn.discordapp.com/attachments/193947666462277632/252918213623414794/704248.png") !important;
+        background-image:url("https://images.discordapp.net/.eJwVyLEOwiAQANB_YYcr1_RCu5l0cHPT-UIJNKGFwKmD8d-Nb3wf9WxZLSqJ1L4AbHv3pW2mS2kcg4mlxBy47t34cgCLsE9HOKUD2pHQzvNMA02EzhIgjfZ_zhFNSDg4WO8XfXuF9mbxSV9X_eCcK9fQTD2j-v4AzzApIA.HLglrff_9Mu3McYasEDQh31Wq88") !important;
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
